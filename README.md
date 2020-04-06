@@ -1,1 +1,1 @@
-# ITPractice
+Practice repo
